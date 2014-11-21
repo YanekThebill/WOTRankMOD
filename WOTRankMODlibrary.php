@@ -1,3 +1,4 @@
+<?php
 /**
  * WOTRankMOD v.0.1 alfa
  * 
