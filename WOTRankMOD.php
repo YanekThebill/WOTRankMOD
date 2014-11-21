@@ -1,3 +1,4 @@
+<?php
 /**
  * WOTRankMOD v.0.1 alfa
  * 
@@ -331,3 +332,4 @@ foreach ($WOTplayers as $WoTRAnk)
         }
     }
 }
+?>
